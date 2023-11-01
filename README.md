@@ -20,9 +20,6 @@
 
 <img align="right" alt="GIF" src="https://github.com/SecuritySuperStar/SecuritySuperStar/blob/git_securitysuperstar_profile_readme/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
-### 🧑 A little more about me
-*   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
-*   <p><b>Portfolio:</b> https://securitysuperstar.github.io</p>
 
 ### ☎️ Contact me
 *   <p><b>Phone:</b> +1 281 896 0915</p>
@@ -39,6 +36,9 @@
 * ⛵   Vetted Senior Full-Stack & Blockchain engineer with 9+ years of hands-on experience in software development field.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
+### 🧑 A little more about me
+*   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
+*   <p><b>Portfolio:</b> https://securitysuperstar.github.io</p>
 
 ### ✒Tech Stack
 
