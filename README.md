@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;7+%2B%20years%20of%20development;Going%20to%20success&font=Pacifico&center=true&width=650&height=120&color=00C2FF&vCenter=true&size=45%22"></img>
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/SecuritySuperStar/SecuritySuperStar/blob/main/busyprogrammer.gif?raw=true" width="50%" height="auto" />
+<img align="right" alt="GIF" src="https://github.com/SecuritySuperStar/SecuritySuperStar/blob/git_securitysuperstar_profile_readme/busyprogrammer.gif?raw=true" width="50%" height="auto" />
 
 ### 🧑 A little more about me
 *   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
