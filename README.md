@@ -36,9 +36,9 @@
 * ⛵   Vetted Senior Full-Stack & Blockchain engineer with 9+ years of hands-on experience in software development field.
 * 🌈   Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency.
 
-### 🧑 A little more about me
+<!-- ### 🧑 A little more about me
 *   <p><b>LinkedIn:</b> https://linkedin.com/in/cristian-diaz-torres-593793294</p>
-*   <p><b>Portfolio:</b> https://securitysuperstar.github.io</p>
+*   <p><b>Portfolio:</b> https://securitysuperstar.github.io</p> -->
 
 ### ✒Tech Stack
 
